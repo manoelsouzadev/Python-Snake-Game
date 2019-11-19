@@ -2,5 +2,5 @@
 Jogo da "cobrinha" desenvolvido com base na orientação do canal Programador Sagaz.
 
 Para rodar o projeto:
-*Execute pip install pygame
-*Rode o jogo com python snake.py
+* Execute pip install pygame
+* Rode o jogo com python snake.py
